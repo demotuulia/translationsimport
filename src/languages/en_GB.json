@@ -1,0 +1,48 @@
+{
+    "menu": {
+        "about": "about",
+        "locale": "EN"
+    },
+    "button": {
+        "tellmemore": "Read more",
+        "OptMeOut": "next",
+        "readmore": {
+            "less": "less",
+            "more": "more"
+        },
+        "back": "back",
+        "send": "Send it",
+        "finish": "Download PDF"
+    },
+    "page": {
+        "fallback": {
+            "header": "This website provides EU citizens a way to provisionally \u2018opt-out\u2019 from the EHDS",
+            "intro": "Our mission is provide all EU citizens with a means to object to being registred in the European Health Data Space (EHDS). Please in by clicking <red>&quot;Select Country&quot;</red>  if it is available for your country or checkout the the <red>&quot;about&quot;</red> button  for more info.",
+            "button": "Select country"
+        },
+        "about": {
+            "title": "Letter Provider",
+            "0": {
+                "h": "Pingen",
+                "p": {
+                    "0": "https://www.pingen.nl/",
+                    "1": "h1 p2 text"
+                }
+            },
+            "1": {
+                "h": "I am a h2",
+                "p": {
+                    "0": "h2 p1  text",
+                    "1": "h2 p2  text",
+                    "2": "h2 p3  text"
+                }
+            },
+            "2": {
+                "h": "I am a h3",
+                "p": {
+                    "0": "h2 p1  text"
+                }
+            }
+        }
+    }
+}

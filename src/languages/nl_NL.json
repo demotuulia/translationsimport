@@ -1,0 +1,48 @@
+{
+    "menu": {
+        "about": "about",
+        "locale": "EN"
+    },
+    "button": {
+        "tellmemore": "NL Tell me more",
+        "OptMeOut": "OptMeOut",
+        "readmore": {
+            "less": "NL less",
+            "more": "NL more"
+        },
+        "back": "NL back",
+        "send": "NL Send it",
+        "finish": "NL Finish"
+    },
+    "page": {
+        "fallback": {
+            "header": "This website provides EU citizens a way to provisionally \u2018opt-out\u2019 from the EHDS",
+            "intro": "Our mission is provide all EU citizens with a means to object to being registred in the European Health Data Space (EHDS). Please in by clicking <red>&quot;Select Country&quot;</red>  if it is available for your country or checkout the the <red>&quot;about&quot;</red> button  for more info.",
+            "button": "NL Select country"
+        },
+        "about": {
+            "title": "NL About",
+            "0": {
+                "h": "NL I am am h1",
+                "p": {
+                    "0": "NL h1 p1 text",
+                    "1": "NL h1 p2 text"
+                }
+            },
+            "1": {
+                "h": "I am a h2",
+                "p": {
+                    "0": "NL h2 p1  text",
+                    "1": "NL h2 p2  text",
+                    "2": "NL h2 p3  text"
+                }
+            },
+            "2": {
+                "h": "I NL am a h3",
+                "p": {
+                    "0": "NL h2 p1  text"
+                }
+            }
+        }
+    }
+}  
