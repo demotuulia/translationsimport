@@ -10,7 +10,7 @@
 ## Introduction
 
 This is a small translation import tool made by the Python programming language.
-To see how to use it look at the document TranslatorsGuide.pdf.
+To see how to use it and what it does look at the document [TranslatorsGuide.pdf](/TranslatorsGuide.pdf) 
 
 You can add an edit translations by importing the in spread sheets, which can be sent
 to professional translators. After their job is done, you can import the translations back in
